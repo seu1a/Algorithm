@@ -7,7 +7,7 @@ public class P10950 {
         int T = scan.nextInt();
 
         for (int i = 0; i < T; i++) {
-            System.out.println(scan.nextInt() + scan.nextInt());;
+            System.out.println(scan.nextInt() + scan.nextInt());
         }
     }
 }
